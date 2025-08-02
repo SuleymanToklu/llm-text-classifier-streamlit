@@ -1,0 +1,15 @@
+# Datasets and large files
+*.zip
+*.csv
+
+# Trained model
+llm_winner_classifier/
+
+# Python caches
+__pycache__/
+.pytest_cache/
+
+# VSCode and logs
+.vscode/
+results/
+logs/
